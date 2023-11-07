@@ -1,5 +1,7 @@
 # DualShock Library
 
+## [Forked from Pecacheu/dualshock](https://github.com/Pecacheu/dualshock)
+
 ### Now Supports:
 - DS4 led/rumble/trackpad even over bluetooth!
 - DS4 internal speaker & headphone/headset jack!
